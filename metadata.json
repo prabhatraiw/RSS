@@ -1,0 +1,6 @@
+{
+  "name": "Shakha Pravas",
+  "description": "राष्ट्रीय स्वयंसेवक संघ - शाखा प्रवास योजना (RSS Shakha Pravas Yojna planner and schedule manager)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

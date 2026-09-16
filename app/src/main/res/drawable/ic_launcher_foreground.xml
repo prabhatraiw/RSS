@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Flag Pole with Golden Tip and Base -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M34,20 L38,20 L37,25 L35,25 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M34.5,25 L37.5,25 L37.5,88 L34.5,88 Z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M33,83 L39,83 L39,87 L33,87 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M31.5,87 L40.5,87 L40.5,91 L31.5,91 Z" />
+    
+    <!-- Bhagwa Dhwaj (RSS Saffron Swallowtail Flag) -->
+    <!-- Shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M39.5,28.5 L84.5,37.5 L67.5,49.5 L85.5,60.5 L39.5,67.5 Z" />
+    <!-- Flag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37.5,27 L82.5,36 L65.5,48 L83.5,59 L37.5,66 Z" />
+    <path
+        android:fillColor="#FFF4E6"
+        android:pathData="M37.5,28.5 L80,36.8 L66,48 L81,58.2 L37.5,64.5 Z" />
+
+    <!-- Om Symbol on Flag in Saffron -->
+    <path
+        android:fillColor="#D9480F"
+        android:pathData="M 50,42 C 48,40 45,41 45,44 C 45,47 48,48 50,50 C 48,52 44,53 44,57 C 44,60 48,62 52,60 C 56,58 56,53 53,50 C 56,47 55,42 50,42 Z" />
+    <path
+        android:fillColor="#D9480F"
+        android:pathData="M 52,48 C 55,48 58,45 61,48 C 62,49 63,52 64,55 C 64.5,56 65.5,56 66,55 C 65,51 63,46 59,45 C 56,44 53,46 52,48 Z" />
+    <path
+        android:fillColor="#D9480F"
+        android:pathData="M 55,39 C 58,39 61,40 63,39 C 63,38 61,37.5 59,37.5 C 57,37.5 55,38 55,39 Z" />
+    <path
+        android:fillColor="#D9480F"
+        android:pathData="M 59,35 A 1.5,1.5 0 1,0 59,38 A 1.5,1.5 0 1,0 59,35 Z" />
+</vector>
+
